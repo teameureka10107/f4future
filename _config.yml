@@ -1,0 +1,32 @@
+# Dependencies
+# markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: false
+
+# Setup
+title:            'f4future'
+tagline:          'A Jekyll theme'
+url:              https://www.f4future.org
+baseurl:          /
+dev.baseurl:      /f4future/
+
+
+plugins:
+  - jekyll-paginate
+  - jekyll-gist
+
+whitelist:
+  - jekyll-gist
+  - jekyll-coffeescript
+  - jekyll-seo-tag
+
+gems:
+  - jekyll-gist
+  - webrick
+  - jekyll-paginate
+
+# Enable safe mode
+safe: true
