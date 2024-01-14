@@ -8,8 +8,7 @@ title: Foundations for Future Inc
     <h3>Building Future Engineers</h3>
 </header>
 
-<section id="mission">
-
+{:id="mission"}
 ## What do we do?
 
 We help kids from Grade 5 and above to get introduced to STEM, learn about applying concepts they learn in STEM by building fun robots, understand problems in society and create innovative solutions applying same principles.
@@ -20,7 +19,6 @@ We help kids from Grade 5 and above to get introduced to STEM, learn about apply
 * 3D Printing
 * Computer Science - Coding/Programming
 
-</section>
 
 <section id="mission">
 We are a small but motivated and enthusiastic team that is committed to educating the young kids in STEAM
