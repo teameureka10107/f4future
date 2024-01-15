@@ -6,6 +6,11 @@ body {
     color: #333;
 }
 
+#content{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
 header {
     background: #4CAF50;
     color: #fff;
